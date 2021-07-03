@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    background-color: cyan;
+    padding: 20px;
+    border: 10px solid white;
+    margin: 10px;
+    
+}
+p{
+    color: lime;
+}
+h3{
+    color: navy;
+    background-color: rgb(107, 151, 107);
+    padding: 30px;
+    border: powderblue;
+    margin: auto;
+}
